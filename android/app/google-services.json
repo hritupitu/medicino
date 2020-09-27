@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "693974730684",
+    "firebase_url": "https://borderhacks-e023e.firebaseio.com",
+    "project_id": "borderhacks-e023e",
+    "storage_bucket": "borderhacks-e023e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693974730684:android:81f43335f496126069cdb9",
+        "android_client_info": {
+          "package_name": "com.example.hackathon_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693974730684-pgp0ojghpv7v16lcv9mrip8hbsu2mt7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hackathon_app",
+            "certificate_hash": "e6a40d5e4b5ced4af3e4a9154f72748ab0ab310c"
+          }
+        },
+        {
+          "client_id": "693974730684-bqa12s5n7o63akpb61vh25momjs15goj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4YLYe2nY4uKxlTuYVmIOPgO4Ki2O2KZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693974730684-bqa12s5n7o63akpb61vh25momjs15goj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

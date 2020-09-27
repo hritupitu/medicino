@@ -1,0 +1,64 @@
+<!doctype html>
+
+<html>
+ 
+
+    <head>
+    
+        <title> Admin WebApp - Medicino </title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+      </head>
+
+
+  <body>
+
+    <script src="https://www.gstatic.com/firebasejs/7.21.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.21.1/firebase-firestore.js"></script>
+
+        <!-- TODO: Add SDKs for Firebase products that you want to use
+            https://firebase.google.com/docs/web/setup#available-libraries -->
+        <script src="https://www.gstatic.com/firebasejs/7.21.1/firebase-analytics.js"></script>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <!-- Nav Links -->
+      <div class="collapse navbar-collapse justify-content-center" id="navbarTogglerDemo02">
+        <a class="navbar-brand" href="index.html" > Home </a>
+
+        <ul class="navbar-nav">
+          <li class="nav-item active">
+            <a class="nav-link" href="pharmacy.html"> Meds </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="docs.html" > Docs </a>
+          </li>
+        </ul>
+      </div>
+
+    </nav>
+
+        <!-- The core Firebase JS SDK is always required and must be listed first -->
+
+
+<script>
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  var firebaseConfig = {
+    apiKey: "AIzaSyBIzmIK5MMMcL7hvn2xEMwXqXrMZsMRLIA",
+    authDomain: "borderhacks-e023e.firebaseapp.com",
+    databaseURL: "https://borderhacks-e023e.firebaseio.com",
+    projectId: "borderhacks-e023e",
+    storageBucket: "borderhacks-e023e.appspot.com",
+    messagingSenderId: "693974730684",
+    appId: "1:693974730684:web:706672a3d25129ac69cdb9",
+    measurementId: "G-KJVT1DFHXK"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+  const db = firebase.firestore();
+</script>
+
+
+      <script src="app.js"></script>
+    </body>
+</html>

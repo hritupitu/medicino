@@ -1,0 +1,236 @@
+#name-row{
+    position: absolute;
+    z-index: 1;
+    top:50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    background: transparent!important;
+    width:100%;
+    height: 50%;
+  }
+  ::-webkit-scrollbar{
+    display: none;
+  }
+  
+  .name-row-scroll {
+    overflow-y: scroll;
+    top: 55%!important;
+    height: 90%!important;
+    -ms-overflow-style: none;
+    /* display: none; */
+  }
+  
+  nav {
+    z-index: 10;
+  }
+  
+  html, body {
+    margin: 0px 0px 0px 0px;
+    min-height: 100%;
+    height: 100%;
+    max-width: 100%;
+    padding: none;
+    position: top;
+    z-index: 0;
+    font-family: 'Literata', serif;
+    overflow-x:hidden;
+    overflow-y:hidden;
+  }
+  
+  #cv-title {
+    margin-top: 7%;
+    font-size: 5vh!important;
+  }
+  
+  #cv-email {
+    margin-top: 3%;
+    font-size: 3vh!important;
+  }
+  
+  #cv-subtitle {
+    font-size: 3vh!important;
+  }
+  
+  #cv-h5 {
+    font-size: 2.5vh!important;
+  }
+  
+  #cv-p {
+    font-size: 1.75vh!important;
+  }
+  
+  #copy {
+    width:100%;
+    height:80%;
+    color:#686868;
+    background: transparent;
+    margin-top:7%;
+    margin-bottom:7%;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border: 1px solid #686868;
+    font-size: 2vh!important;
+  }
+  
+  .navbar-brand {
+    text-align: center;
+  }
+  
+  #copy:hover {
+    background: #686868;
+    color: white;
+  }
+  
+  #name {
+    color: #686868;
+    text-align: center;
+    font-family: 'Literata', serif;
+    font-size: 4.75vh!important;
+  }
+  
+  
+  #about-title-h2 {
+    font-size: 4vh!important;
+    background: transparent;
+    text-align: center;
+    display: inline;
+    font-family: 'Literata', serif;
+  }
+  
+  
+  
+  #about-sum {
+    background:transparent;
+    text-align: center;
+    font-family: 'Literata', serif;
+    font-size: 2vh!important;
+  }
+  
+  p {
+    font-family: 'Literata', serif;
+  }
+  
+  .nav-link , .navbar-brand{
+    color: black;
+    text-align: center;
+    font-family: 'Literata', serif;
+    text-decoration: none;
+  }
+  
+  
+  
+  #name-des {
+    margin-top: 6%;
+    color: #686868;
+    text-align: center;
+    font-family: 'Literata', serif;
+    font-size: 2vh!important;
+  }
+  
+  .fa{
+    text-decoration: none!important;
+    color:black!important;
+    
+  }
+  
+  #icon-row {
+    margin-top: 6%;
+    text-align: center;
+    margin-bottom: 6%;
+    font-size: 4vh!important;
+  }
+  
+  #jumbo {
+    margin-top: 0px!important;
+    padding-top: 0px;
+    height:100%;
+    width: 100%;
+    z-index: 3;
+    background: transparent
+  }
+  
+  #avatar {
+    height: 18vh;
+    width: 18vh;
+    margin-bottom: 7%;
+    border-radius: 40%;
+  }
+  
+  #name-box {
+    background: #f8f8f8;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    width: 100%;
+    height: 100%;
+    border-radius: 10%;
+    z-index:6;
+    overflow-y: scroll;
+  }
+  
+  
+  #resume {
+    text-align: center;
+  }
+  
+  #cv-h6 {
+    font-size: 1.75vh!important;
+  }
+  
+  hr {
+    margin-top:3%;
+    margin-bottom: 3%;
+  }
+  
+  .skill-title {
+    display: inline;
+    font-size: 1.75vh!important;
+  }
+  
+  .nav-link-mobile {
+    padding-top: 26.5px;
+    padding-bottom: 26.5px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 2vh;
+  }
+  
+  .navbar-brand-mobile {
+    font-size: 2.5vh;
+    width: 100%;
+    text-align: center;
+  }
+  
+  @media (min-width: 768px) {
+    .navbar-nav > li > a {
+      padding-top: 26.5px;
+      padding-bottom: 26.5px;
+      line-height: 50px;
+      text-align: center;
+    }
+  
+    .navbar-toggler {
+      height: 60px;
+      width: 10%;
+    }
+    .navbar-toggler-icon {
+      height: 100%!important;
+      width: 100%;
+    }
+    .navbar {
+      min-height: 10%;
+    }
+  
+    #resume {
+      background: transparent!important;
+    }
+  
+    .col-12 {
+      background: transparent;
+    }
+    
+    #name-box {
+      background: transparent;
+    }
+  }
