@@ -1,7 +1,3 @@
-# hackathon_app
-
-A new Flutter application.
-
 # Medicino
 
 ### Problem Statement (Borderhacks - Hackathon'20)
@@ -34,29 +30,29 @@ inventory.
 # App Demo
 ### Medicino
 ### Welcome Page
-https://github.com/Paksh2909/borderhacks/blob/webapp/WhatsApp%20Image%202020-09-27%20at%206.26.02%20PM%20(1).jpeg
+https://github.com/hritupitu/medicino/blob/master/WhatsApp%20Image%202020-09-27%20at%207.12.29%20PM.jpeg
 
 ### User profile photo
-https://github.com/Paksh2909/borderhacks/blob/webapp/WhatsApp%20Image%202020-09-27%20at%205.39.25%20PM%20(1).jpeg
+https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%205.39.25%20PM%20(1).jpeg
 
 
 ### Search for a Doctor by name or by specialization
-https://github.com/Paksh2909/borderhacks/blob/webapp/WhatsApp%20Image%202020-09-27%20at%205.39.23%20PM.jpeg
+https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%205.39.23%20PM.jpeg
 
 ### Type in minimum 3 symptoms so that we can diagnose and recommend you a doctor for the particular diagnosis
-https://github.com/Paksh2909/borderhacks/blob/webapp/WhatsApp%20Image%202020-09-27%20at%205.39.24%20PM%20(1).jpeg
+https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%205.39.24%20PM%20(1).jpeg
 
 
 ### Doctor Details and Location for reference
-https://github.com/Paksh2909/borderhacks/blob/webapp/WhatsApp%20Image%202020-09-27%20at%206.46.03%20PM.jpeg
+https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%206.46.03%20PM.jpeg
 
 ### List of all  registerd doctors available on database
-https://github.com/Paksh2909/borderhacks/blob/webapp/WhatsApp%20Image%202020-09-27%20at%206.57.50%20PM.jpeg
+https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%206.57.50%20PM.jpeg
 
 
 
 # Authors
 * Vedant Agarwal (vedantagarwal4, vedantagarwal4@gmail.com)
 * Pakshal Shah (paksh2909, pakshals29@gmail.com)
-* Hritvik Agarwal(hritupitu, hritvik.agarwal@gmail.com)
+* Hritvik Agarwal (hritupitu, hritvik.agarwal@gmail.com)
 * Saumya Karia (saumyakaria, saumyakaria.51200@gmail.com)
