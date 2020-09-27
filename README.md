@@ -2,15 +2,61 @@
 
 A new Flutter application.
 
-## Getting Started
+# Medicino
 
-This project is a starting point for a Flutter application.
+### Problem Statement (Borderhacks - Hackathon'20)
+- Implement a App Based solution through which doctors and pharmacies
+can share their information and inventory with patients. The solution
+should explain the process involved and the benefits of information
+exchange to the user.
+- The purpose of such an exchange is to provide a user with
+information about their disease by searching for symptoms and then
+finding the nearest doctor according to the disease.
+- Users can also find the prescribed drugs on the app and find there
+nearest pharmacy with all the required medicine with adequete
+inventory.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+- Frontend
+- HTML5
+- CSS3
+- Flutter
+- Python
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Backend
+- Firebase
+- Google Cloud Platform
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Database
+- Firestore
+
+
+# App Demo
+### Medicino
+### Welcome Page
+https://github.com/Paksh2909/borderhacks/blob/webapp/WhatsApp%20Image%202020-09-27%20at%206.26.02%20PM%20(1).jpeg
+
+### User profile photo
+https://github.com/Paksh2909/borderhacks/blob/webapp/WhatsApp%20Image%202020-09-27%20at%205.39.25%20PM%20(1).jpeg
+
+
+### Search for a Doctor by name or by specialization
+https://github.com/Paksh2909/borderhacks/blob/webapp/WhatsApp%20Image%202020-09-27%20at%205.39.23%20PM.jpeg
+
+### Type in minimum 3 symptoms so that we can diagnose and recommend you a doctor for the particular diagnosis
+https://github.com/Paksh2909/borderhacks/blob/webapp/WhatsApp%20Image%202020-09-27%20at%205.39.24%20PM%20(1).jpeg
+
+
+### Doctor Details and Location for reference
+https://github.com/Paksh2909/borderhacks/blob/webapp/WhatsApp%20Image%202020-09-27%20at%206.46.03%20PM.jpeg
+
+### List of all  registerd doctors available on database
+https://github.com/Paksh2909/borderhacks/blob/webapp/WhatsApp%20Image%202020-09-27%20at%206.57.50%20PM.jpeg
+
+
+
+# Authors
+* Vedant Agarwal (vedantagarwal4, vedantagarwal4@gmail.com)
+* Pakshal Shah (paksh2909, pakshals29@gmail.com)
+* Hritvik Agarwal(hritupitu, hritvik.agarwal@gmail.com)
+* Saumya Karia (saumyakaria, saumyakaria.51200@gmail.com)
