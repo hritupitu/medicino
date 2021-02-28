@@ -30,23 +30,22 @@ class _LandingPageState extends State<LandingPage> {
 
   @override
   Widget build(BuildContext context) {
-    final height = MediaQuery
-        .of(context)
-        .size
-        .height;
-    return _isLoading ? Loading() : Scaffold(
-      body: SingleChildScrollView(
-        child: Column(
-          children: <Widget>[
-            _buildClippedContainer(height),
-            SizedBox(height: height * 0.15),
-            _buildBody(),
-            SizedBox(height: height * 0.22),
-            _buildFooterButtons(context),
-          ],
-        ),
-      ),
-    );
+    final height = MediaQuery.of(context).size.height;
+    return _isLoading
+        ? Loading()
+        : Scaffold(
+            body: SingleChildScrollView(
+              child: Column(
+                children: <Widget>[
+                  _buildClippedContainer(height),
+                  SizedBox(height: height * 0.15),
+                  _buildBody(),
+                  SizedBox(height: height * 0.22),
+                  _buildFooterButtons(context),
+                ],
+              ),
+            ),
+          );
   }
 
   _buildFooterButtons(BuildContext context) {
@@ -70,8 +69,7 @@ class _LandingPageState extends State<LandingPage> {
       onPressed: () {
         print(auth);
         Navigator.of(context).push(MaterialPageRoute(
-            builder: (context) =>
-                AuthScreen(
+            builder: (context) => AuthScreen(
                   authType: auth,
                 )));
       },
@@ -95,22 +93,22 @@ class _LandingPageState extends State<LandingPage> {
           ),
         ),
         Text(
-          'Medicino',
+          'TrackDemic',
           style: TextStyle(
             fontSize: 40,
             fontWeight: FontWeight.bold,
             color: greenColor,
           ),
         ),
-        SizedBox(height: 10),
-        Text(
-          'Find your medicine!',
-          style: TextStyle(
-            fontSize: 18,
-            color: greenColor,
-            fontWeight: FontWeight.w600,
-          ),
-        ),
+        // SizedBox(height: 10),
+        // Text(
+        //   'Find your medicine!',
+        //   style: TextStyle(
+        //     fontSize: 18,
+        //     color: greenColor,
+        //     fontWeight: FontWeight.w600,
+        //   ),
+        // ),
       ],
     );
   }
@@ -123,7 +121,7 @@ class _LandingPageState extends State<LandingPage> {
         decoration: BoxDecoration(color: lightGreen),
         child: Center(
           child: Text(
-            'Medicino',
+            'Logo',
             style: TextStyle(
                 fontSize: 50, fontWeight: FontWeight.bold, color: Colors.white),
           ),
