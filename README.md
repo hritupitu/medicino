@@ -47,7 +47,7 @@ https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-0
 https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%206.46.03%20PM.jpeg
 
 ### List of all  registerd doctors available on database
-![Pic 1](https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%206.57.50%20PM.jpeg = 40x80)
+![Pic 1](https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%206.57.50%20PM.jpeg)
 
 
 
