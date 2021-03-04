@@ -30,25 +30,25 @@ inventory.
 # App Demo
 ### Medicino
 ### Welcome Page
-https://github.com/hritupitu/medicino/blob/master/WhatsApp%20Image%202020-09-27%20at%207.12.29%20PM.jpeg
+![](https://github.com/hritupitu/medicino/blob/master/WhatsApp%20Image%202020-09-27%20at%207.12.29%20PM.jpeg)
 
 ### User profile photo
-https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%205.39.25%20PM%20(1).jpeg
+![](https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%205.39.25%20PM%20(1).jpeg)
 
 
 ### Search for a Doctor by name or by specialization
-https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%205.39.23%20PM.jpeg
+![](https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%205.39.23%20PM.jpeg)
 
 ### Type in minimum 3 symptoms so that we can diagnose and recommend you a doctor for the particular diagnosis
-https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%205.39.24%20PM%20(1).jpeg
+![](https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%205.39.24%20PM%20(1).jpeg)
 
 
 ### Doctor Details and Location for reference
-https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%206.46.03%20PM.jpeg
+![](https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%206.46.03%20PM.jpeg)
 
 ### List of all  registerd doctors available on database
 
-<img src="https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%206.57.50%20PM.jpeg" alt="alt text" width="50" height="100">
+<img src="https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%206.57.50%20PM.jpeg" alt="alt text" width="2in" height="3in">
 
 ![Pic 1](https://github.com/hritupitu/medicino/blob/master/pics/WhatsApp%20Image%202020-09-27%20at%206.57.50%20PM.jpeg)
 
